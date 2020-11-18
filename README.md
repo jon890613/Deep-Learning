@@ -1,9 +1,9 @@
 # Deep-Learning
 
 
-'''
 
-課本 
+
+## 課本 
 
 https://github.com/oreilly-japan/deep-learning-from-scratch
 
@@ -13,4 +13,4 @@ https://github.com/oreilly-japan/deep-learning-from-scratch
 !git clone https://github.com/oreilly-japan/deep-learning-from-scratch.git
 
 
-'''
+
